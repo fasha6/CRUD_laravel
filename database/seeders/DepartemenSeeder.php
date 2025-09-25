@@ -15,9 +15,9 @@ class DepartemenSeeder extends Seeder
     {
         //
         $departemen = [
-            ['kodedepartemen' => '110','nama_departemen' => 'IT'],
-            ['kodedepartemen' => '111','nama_departemen' => 'Logistik'],
-            ['kodedepartemen' => '112','nama_departemen' => 'HR'],
+            ['nama_departemen' => 'IT'],
+            ['nama_departemen' => 'Logistik'],
+            ['nama_departemen' => 'HR'],
 
 
         ];
